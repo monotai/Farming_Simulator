@@ -1,307 +1,439 @@
 {
     "0": {
         "plant": {
-            "Cactus Seeds": 1
+            "Parsnip Seeds": 1
+        }
+    },
+    "1": {
+        "plant": {
+            "Parsnip Seeds": 1
+        }
+    },
+    "2": {
+        "plant": {
+            "Parsnip Seeds": 1
         }
     },
     "3": {
         "plant": {
-            "Cactus Seeds": 1
+            "Parsnip Seeds": 1
         }
     },
-    "8": {
+    "4": {
         "plant": {
-            "Cactus Seeds": 1
+            "Parsnip Seeds": 1
+        }
+    },
+    "6": {
+        "plant": {
+            "Parsnip Seeds": 1
+        }
+    },
+    "7": {
+        "plant": {
+            "Parsnip Seeds": 1
         }
     },
     "9": {
         "plant": {
-            "Cactus Seeds": 2
+            "Parsnip Seeds": 1
         }
     },
     "10": {
         "plant": {
-            "Cactus Seeds": 1
-        }
-    },
-    "11": {
-        "plant": {
-            "Cactus Seeds": 1
+            "Parsnip Seeds": 1
         }
     },
     "15": {
         "plant": {
-            "Cactus Seeds": 1
+            "Parsnip Seeds": 1
+        }
+    },
+    "19": {
+        "harvest": {
+            "Parsnip Seeds": 0.5,
+            "money": 0
+        }
+    },
+    "21": {
+        "harvest": {
+            "Parsnip Seeds": 0.5,
+            "money": 0.5
+        }
+    },
+    "22": {
+        "harvest": {
+            "Parsnip Seeds": 0.5,
+            "money": 1.0
         }
     },
     "23": {
         "harvest": {
-            "Cactus Seeds": 2.5,
-            "money": 0
+            "Parsnip Seeds": 0.5,
+            "money": 1.5
         }
     },
     "26": {
         "harvest": {
-            "Cactus Seeds": 2.5,
+            "Parsnip Seeds": 0.5,
+            "money": 2.0
+        }
+    },
+    "27": {
+        "harvest": {
+            "Parsnip Seeds": 0.5,
             "money": 2.5
         }
     },
     "29": {
-        "harvest": {
-            "Cactus Seeds": 2.5,
-            "money": 5.0
+        "plant": {
+            "Cauliflower Seeds": 1
         }
     },
     "30": {
         "plant": {
-            "Cactus Seeds": 1
+            "Cauliflower Seeds": 1
         }
     },
-    "36": {
+    "31": {
         "plant": {
-            "Cactus Seeds": 1
+            "Cauliflower Seeds": 1
+        }
+    },
+    "32": {
+        "plant": {
+            "Cauliflower Seeds": 1
+        }
+    },
+    "33": {
+        "plant": {
+            "Cauliflower Seeds": 2
+        }
+    },
+    "35": {
+        "plant": {
+            "Cauliflower Seeds": 2
         }
     },
     "37": {
         "plant": {
-            "Cactus Seeds": 1
+            "Cauliflower Seeds": 1
         }
     },
     "38": {
         "plant": {
-            "Cactus Seeds": 1
+            "Cauliflower Seeds": 1
         }
     },
     "39": {
         "plant": {
-            "Cactus Seeds": 2
+            "Cauliflower Seeds": 1
         }
     },
-    "40": {
+    "65": {
         "plant": {
-            "Cactus Seeds": 1
-        }
-    },
-    "41": {
-        "plant": {
-            "Cactus Seeds": 2
-        }
-    },
-    "43": {
-        "plant": {
-            "Cactus Seeds": 1
-        }
-    },
-    "55": {
-        "plant": {
-            "Cactus Seeds": 1
-        }
-    },
-    "59": {
-        "harvest": {
-            "Cactus Seeds": 2.5,
-            "money": 7.5
-        }
-    },
-    "63": {
-        "harvest": {
-            "Cactus Seeds": 2.5,
-            "money": 10.0
-        }
-    },
-    "66": {
-        "harvest": {
-            "Cactus Seeds": 2.5,
-            "money": 12.5
+            "Rice Shoot": 1
         }
     },
     "67": {
-        "harvest": {
-            "Cactus Seeds": 2.5,
-            "money": 15.0
+        "plant": {
+            "Rice Shoot": 1
+        }
+    },
+    "69": {
+        "plant": {
+            "Kale Seeds": 1
         }
     },
     "70": {
-        "harvest": {
-            "Cactus Seeds": 2.5,
-            "money": 17.5
+        "plant": {
+            "Kale Seeds": 2
+        }
+    },
+    "71": {
+        "plant": {
+            "Kale Seeds": 1
         }
     },
     "73": {
-        "harvest": {
-            "Cactus Seeds": 2.5,
-            "money": 20.0
-        }
-    },
-    "77": {
         "plant": {
-            "Cactus Seeds": 1
-        }
-    },
-    "78": {
-        "plant": {
-            "Cactus Seeds": 1
-        }
-    },
-    "80": {
-        "plant": {
-            "Cactus Seeds": 1
-        }
-    },
-    "81": {
-        "plant": {
-            "Cactus Seeds": 1
+            "Kale Seeds": 1
         }
     },
     "82": {
-        "plant": {
-            "Cactus Seeds": 1
-        }
-    },
-    "83": {
-        "plant": {
-            "Cactus Seeds": 2
+        "harvest": {
+            "Kale Seeds": 1,
+            "money": 3.0
         }
     },
     "84": {
         "plant": {
-            "Cactus Seeds": 1
+            "Rhubarb Seeds": 1
         }
     },
     "85": {
         "plant": {
-            "Cactus Seeds": 1
+            "Rhubarb Seeds": 1
         }
     },
     "86": {
         "plant": {
-            "Cactus Seeds": 2
+            "Rhubarb Seeds": 1
+        }
+    },
+    "87": {
+        "plant": {
+            "Rhubarb Seeds": 1
         }
     },
     "88": {
         "plant": {
-            "Cactus Seeds": 1
+            "Rhubarb Seeds": 1
         }
     },
     "89": {
         "plant": {
-            "Cactus Seeds": 1
+            "Rhubarb Seeds": 1
         }
     },
     "90": {
         "plant": {
-            "Cactus Seeds": 1
+            "Rhubarb Seeds": 1
         }
     },
     "91": {
         "plant": {
-            "Cactus Seeds": 2
+            "Rhubarb Seeds": 1
         }
     },
-    "121": {
+    "93": {
         "plant": {
-            "Cactus Seeds": 1
+            "Rhubarb Seeds": 1
+        }
+    },
+    "95": {
+        "plant": {
+            "Rhubarb Seeds": 1
+        }
+    },
+    "96": {
+        "plant": {
+            "Rhubarb Seeds": 1
+        }
+    },
+    "98": {
+        "plant": {
+            "Rhubarb Seeds": 1
+        }
+    },
+    "100": {
+        "plant": {
+            "Strawberry Seeds": 1
+        }
+    },
+    "101": {
+        "plant": {
+            "Strawberry Seeds": 1
+        }
+    },
+    "102": {
+        "plant": {
+            "Strawberry Seeds": 1
+        }
+    },
+    "103": {
+        "plant": {
+            "Strawberry Seeds": 1
+        }
+    },
+    "104": {
+        "harvest": {
+            "Parsnip Seeds": 0.5,
+            "money": 4.0
+        }
+    },
+    "106": {
+        "harvest": {
+            "Parsnip Seeds": 0.5,
+            "money": 4.5
+        }
+    },
+    "110": {
+        "harvest": {
+            "Strawberry Seeds": 2.8,
+            "money": 5.0
+        }
+    },
+    "111": {
+        "harvest": {
+            "Strawberry Seeds": 2.8,
+            "money": 7.8
+        }
+    },
+    "113": {
+        "harvest": {
+            "Strawberry Seeds": 2.8,
+            "money": 10.6
+        }
+    },
+    "114": {
+        "plant": {
+            "Strawberry Seeds": 1
+        }
+    },
+    "117": {
+        "plant": {
+            "Melon Seeds": 1
+        }
+    },
+    "119": {
+        "plant": {
+            "Melon Seeds": 1
+        }
+    },
+    "122": {
+        "plant": {
+            "Blueberry Seeds": 1
         }
     },
     "123": {
         "plant": {
-            "Cactus Seeds": 1
+            "Blueberry Seeds": 1
         }
     },
     "124": {
         "plant": {
-            "Cactus Seeds": 1
-        }
-    },
-    "125": {
-        "plant": {
-            "Cactus Seeds": 1
+            "Blueberry Seeds": 1
         }
     },
     "126": {
         "plant": {
-            "Cactus Seeds": 2
+            "Blueberry Seeds": 1
         }
     },
-    "127": {
+    "157": {
         "plant": {
-            "Cactus Seeds": 2
+            "Blueberry Seeds": 1
         }
     },
-    "129": {
-        "plant": {
-            "Cactus Seeds": 1
-        }
-    },
-    "130": {
-        "plant": {
-            "Cactus Seeds": 1
-        }
-    },
-    "131": {
-        "plant": {
-            "Cactus Seeds": 1
-        }
-    },
-    "149": {
-        "plant": {
-            "Cactus Seeds": 1
-        }
-    },
-    "150": {
+    "158": {
         "harvest": {
-            "Cactus Seeds": 2.5,
-            "money": 22.5
+            "Blueberry Seeds": 1.8,
+            "money": 13.399999999999999
         }
     },
-    "153": {
+    "160": {
         "harvest": {
-            "Cactus Seeds": 2.5,
-            "money": 25.0
-        }
-    },
-    "156": {
-        "harvest": {
-            "Cactus Seeds": 2.5,
-            "money": 27.5
+            "Blueberry Seeds": 1.8,
+            "money": 15.2
         }
     },
     "161": {
         "harvest": {
-            "Cactus Seeds": 2.5,
-            "money": 30.0
+            "Melon Seeds": 4,
+            "money": 17.0
+        }
+    },
+    "162": {
+        "harvest": {
+            "Melon Seeds": 4,
+            "money": 21.0
+        }
+    },
+    "164": {
+        "harvest": {
+            "Strawberry Seeds": 2.8,
+            "money": 25.0
         }
     },
     "165": {
         "harvest": {
-            "Cactus Seeds": 2.5,
-            "money": 32.5
+            "Rhubarb Seeds": 2,
+            "money": 27.8
         }
     },
-    "168": {
+    "167": {
         "harvest": {
-            "Cactus Seeds": 2.5,
-            "money": 35.0
+            "Rhubarb Seeds": 2,
+            "money": 29.8
         }
     },
-    "172": {
-        "plant": {
-            "Cactus Seeds": 1
+    "170": {
+        "harvest": {
+            "Strawberry Seeds": 2.8,
+            "money": 31.8
+        }
+    },
+    "171": {
+        "harvest": {
+            "Cauliflower Seeds": 1.25,
+            "money": 34.6
         }
     },
     "173": {
-        "plant": {
-            "Cactus Seeds": 1
+        "harvest": {
+            "Blueberry Seeds": 1.8,
+            "money": 35.85
+        }
+    },
+    "174": {
+        "harvest": {
+            "Blueberry Seeds": 1.8,
+            "money": 37.65
+        }
+    },
+    "175": {
+        "harvest": {
+            "Blueberry Seeds": 1.8,
+            "money": 39.449999999999996
         }
     },
     "177": {
-        "plant": {
-            "Cactus Seeds": 1
+        "harvest": {
+            "Blueberry Seeds": 1.8,
+            "money": 41.24999999999999
         }
     },
     "178": {
-        "plant": {
-            "Cactus Seeds": 1
+        "harvest": {
+            "Blueberry Seeds": 1.8,
+            "money": 43.04999999999999
+        }
+    },
+    "179": {
+        "harvest": {
+            "Blueberry Seeds": 1.8,
+            "money": 44.84999999999999
+        }
+    },
+    "180": {
+        "harvest": {
+            "Blueberry Seeds": 1.8,
+            "money": 46.649999999999984
+        }
+    },
+    "181": {
+        "harvest": {
+            "Blueberry Seeds": 1.8,
+            "money": 48.44999999999998
+        }
+    },
+    "182": {
+        "harvest": {
+            "Blueberry Seeds": 1.8,
+            "money": 50.24999999999998
+        }
+    },
+    "183": {
+        "harvest": {
+            "Blueberry Seeds": 1.8,
+            "money": 52.049999999999976
+        }
+    },
+    "185": {
+        "harvest": {
+            "Blueberry Seeds": 1.8,
+            "money": 53.84999999999997
         }
     }
 }
