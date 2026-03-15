@@ -53,6 +53,7 @@ To run the project correctly, all requirements listed below must be installed an
 Check Python version:
 ```bash
 python --version
+```
 Core Dependencies
 1. Pygame
 Purpose:
